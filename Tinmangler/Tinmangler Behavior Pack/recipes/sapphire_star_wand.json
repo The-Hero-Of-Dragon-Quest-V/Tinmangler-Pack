@@ -1,0 +1,33 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shaped": {
+      "description": {
+      "identifier": "tinmangler:sapphire_star_wand"
+      },
+  
+      
+      "tags": [ "crafting_table" ],
+      "pattern": [
+        "X",
+        "X",
+        "#"
+      ],
+      "key": {
+        "#": {
+          "item": "minecraft:stick"
+        },
+        "X": {
+          "item": "tinmangler:sapphire_star"
+        }
+      },
+      "unlock": [
+        {
+          "item": "tinmangler:sapphire_star"
+        }
+      ],
+      "result": {
+        "item": "tinmangler:sapphire_star_wand"
+      }
+    }
+  }
+  

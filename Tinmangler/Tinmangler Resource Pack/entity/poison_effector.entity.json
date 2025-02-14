@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "tinmangler:poison_effector",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/poison_effector"
+			},
+			"geometry": {
+				"default": "geometry.poison_effector"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

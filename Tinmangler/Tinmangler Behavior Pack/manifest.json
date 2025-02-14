@@ -1,0 +1,32 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Tinmangler Addon",
+		"description": "Tinmangler Addon Behavior Pack",
+		"uuid": "5ccf712f-e0ba-8dfa-2ee4-54cfe2a4ff5f",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 20, 0]
+	},
+	"metadata": {
+		"authors": ["The Hero Of Dragon Quest V"],
+		"generated_with": {
+			"blockbench_item_wizard": ["1.1.0"],
+			"blockbench_block_wizard": ["1.3.0"],
+			"blockbench_entity_wizard": ["1.6.0"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "acfc1fae-07d9-7f3f-c747-42b69c72b193",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "be046aa1-cf84-7227-6b55-c1c943c198d8",
+			"version": [1, 0, 0]
+		}
+	]
+}

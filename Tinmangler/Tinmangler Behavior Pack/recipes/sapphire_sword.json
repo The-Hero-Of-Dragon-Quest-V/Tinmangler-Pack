@@ -1,0 +1,33 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shaped": {
+      "description": {
+      "identifier": "tinmangler:sapphire_sword"
+      },
+  
+      
+      "tags": [ "crafting_table" ],
+      "pattern": [
+        "X",
+        "X",
+        "#"
+      ],
+      "key": {
+        "#": {
+          "item": "minecraft:stick"
+        },
+        "X": {
+          "item": "tinmangler:sapphire"
+        }
+      },
+      "unlock": [
+        {
+          "item": "tinmangler:sapphire"
+        }
+      ],
+      "result": {
+        "item": "tinmangler:sapphire_blade"
+      }
+    }
+  }
+  

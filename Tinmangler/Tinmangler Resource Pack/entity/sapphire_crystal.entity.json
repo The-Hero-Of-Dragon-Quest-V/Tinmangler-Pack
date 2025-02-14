@@ -1,0 +1,18 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "tinmangler:sapphire_crystal",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/sapphire_crystal"
+			},
+			"geometry": {
+				"default": "geometry.sapphire_crystal"
+			},
+			"render_controllers": ["controller.render.default"]
+		}
+	}
+}

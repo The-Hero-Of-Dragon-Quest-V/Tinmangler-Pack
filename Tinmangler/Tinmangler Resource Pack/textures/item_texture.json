@@ -1,0 +1,19 @@
+{
+	"texture_data": {
+		"sapphire": {
+			"textures": "textures/items/sapphire.png"
+		},
+		"sapphire_star_wand": {
+			"textures": "textures/items/sapphire_star_wand.png"
+		},
+		"sapphire_blade": {
+			"textures": "textures/items/sapphire_blade.png"
+		},
+		"sapphire_chestplate": {
+			"textures": "textures/items/sapphire_chestplate.png"
+		},
+		"sapphire_star": {
+			"textures": "textures/items/sapphire_star.png"
+		}
+	}
+}

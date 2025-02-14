@@ -1,0 +1,14 @@
+{
+	"resource_pack_name": "vanilla",
+	"texture_name": "atlas.terrain",
+	"padding": 8,
+	"num_mip_levels": 4,
+	"texture_data": {
+		"fish_block": {
+			"textures": "textures/blocks/fish_block.png"
+		},
+		"sapphire_ore": {
+			"textures": "textures/blocks/sapphire_ore.png"
+		}
+	}
+}
